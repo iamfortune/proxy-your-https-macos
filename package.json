@@ -1,6 +1,6 @@
 {
 	"name": "proxy-your-https-macos",
-	"version": "1.3.0",
+	"version": "1.3.2",
 	"description": "A script that creates https proxy on MacOS and Linux",
 	"main": "index.js",
 	"scripts": {
@@ -22,9 +22,9 @@
 		"https-your-proxy": "./index.js"
 	},
 	"bugs": {
-		"url": "https://github.com/iamfortune/proxy-your-https/issues"
+		"url": "https://github.com/iamfortune/proxy-your-https-macos/issues"
 	},
-	"homepage": "https://github.com/iamfortune/proxy-your-https#readme",
+	"homepage": "https://github.com/iamfortune/proxy-your-https-macos#readme",
 	"dependencies": {
 		"proxy-your-https": "^1.2.0"
 	}
