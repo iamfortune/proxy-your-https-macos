@@ -1,6 +1,6 @@
 {
 	"name": "proxy-your-https-macos",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"description": "A script that creates https proxy on MacOS and Linux",
 	"main": "index.js",
 	"scripts": {
