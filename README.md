@@ -24,7 +24,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 Proxy Your HTTPS macOS uses the [local-ssl-proxy](https://www.npmjs.com/package/local-ssl-proxy) library  Special thanks to [Cameron Hunter](https://www.npmjs.com/~cameronhunter) for his contribution.
 
-
+## NPM LINK 
+Here's a [link](https://www.npmjs.com/package/proxy-your-https-macos) to check this out on NPM.
 
 
 
